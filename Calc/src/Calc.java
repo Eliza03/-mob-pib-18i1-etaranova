@@ -19,7 +19,7 @@ class Calc {
         }
     }
 
-    static double calc(double x, double y, char operation) {
+    private static double calc(double x, double y, char operation) {
         switch (operation) {
             case '+':
                 return x + y;
