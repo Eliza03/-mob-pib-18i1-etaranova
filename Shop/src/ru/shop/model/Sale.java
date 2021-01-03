@@ -1,2 +1,7 @@
-package ru.shop.model;public enum Sale {
+package ru.shop.model;
+
+public enum Sale {
+    WITHOUT,
+    BLACK_FRIDAY
 }
+
